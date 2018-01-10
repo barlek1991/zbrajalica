@@ -1,0 +1,2 @@
+# zbrajalica
+jednostavna zbrajalica 
